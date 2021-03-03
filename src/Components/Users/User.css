@@ -1,0 +1,18 @@
+.userDiv {
+    height: 250px;
+    display : flex;
+    border: 2px solid brown;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+.userText {
+    width:  70%;
+    border-left: 1px solid gainsboro;
+}
+.userImg {
+    width : 25%;    
+}
+.userImg img {
+    width: 80%;
+    padding:  20px;
+}
